@@ -1,0 +1,12 @@
+# Ignore temporary and unnecessary files
+*.log
+*.tmp
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
+*.pkl
+*.db
+sales_forecasting_env/
+logs/
+
